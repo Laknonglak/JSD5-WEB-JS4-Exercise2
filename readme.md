@@ -1,4 +1,4 @@
-## Exercise1
+## Exercise2
 
 Create a day of the week translator using **Switch Case** statement. <br>
 Your program should read a variable called “dayNumber”, and print (with console.log) the corresponding day of the week<br>
